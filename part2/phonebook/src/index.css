@@ -1,0 +1,23 @@
+.successful {
+    color: green;
+    background: gray;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 45%;
+  }
+
+.failed {
+  color: red;
+  background: rgb(187, 120, 120);
+  font-size: 24px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-style: solid;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 45%;
+}
